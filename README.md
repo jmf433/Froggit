@@ -1,2 +1,2 @@
 # Froggit
-Final Project for CS 1110
+This game is inspired by the original Frogger game. The game2D package that the game uses was created by my professor Walker White. I ended up recieving an A on this final project. When running the file you run it using "python froggit". There are two other levels that you can call by running the game using "python froggit roadsonly" which will give you a level with only roads and another using "python froggit multihedge" which will give you a level with multiple hedges and exits for the frog to need to step on. Good luck and have fun!
